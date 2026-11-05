@@ -55,7 +55,13 @@ Grouped by purpose: security and SOC, automation, systems, development, investig
 
 ![OpenCyberPath](assets/project-open-cyber-path.svg)
 
-A free, community-curated cybersecurity learning hub with courses, labs, tools, career roadmaps, and job-preparation resources.
+A free, community-curated cybersecurity learning hub with courses, labs, tools, career roadmaps, and job-preparation resources. Conceptual illustration.
+
+What it does:
+- Provides a searchable resource directory with topic icons, skill levels, and access labels.
+- Offers ten career visions with prerequisites, modules, safe practice, and capstones.
+- Includes labs, notes, threat-hunting exercises, and command references.
+- Adds resume, jobs, and application practice tools in the browser.
 
 Repository: https://github.com/hemanthkadiyala01-sentinel/open-cyber-path
 

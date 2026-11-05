@@ -1,16 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220" role="img" aria-label="OpenCyberPath">
-  <rect width="400" height="220" fill="#05070D"/>
-  <defs><linearGradient id="o" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#081321"/><stop offset="100%" stop-color="#05070D"/></linearGradient></defs>
-  <rect width="400" height="220" fill="url(#o)"/>
-  <g transform="translate(40,50)" fill="none" stroke="#00D9FF" stroke-width="1.5" opacity="0.7">
-    <path d="M0 0 L320 0 M0 30 L320 30 M0 60 L320 60 M0 90 L320 90"/>
+  <rect width="400" height="220" rx="14" fill="#05070D"/>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#081321"/><stop offset="100%" stop-color="#05070D"/></linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#00D9FF"/><stop offset="100%" stop-color="#315BFF"/></linearGradient>
+  </defs>
+  <rect width="400" height="220" rx="14" fill="url(#bg)"/>
+  <!-- top bar -->
+  <rect x="0" y="0" width="400" height="28" rx="14" fill="#0B1220"/>
+  <circle cx="14" cy="14" r="4" fill="#7357FF"/>
+  <circle cx="28" cy="14" r="4" fill="#315BFF"/>
+  <circle cx="42" cy="14" r="4" fill="#00D9FF"/>
+  <text x="60" y="18" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#C0C6D0">OpenCyberPath — Learning Platform</text>
+  <!-- sidebar -->
+  <rect x="0" y="28" width="90" height="192" fill="#081321"/>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#C0C6D0">
+    <text x="12" y="52">Paths</text>
+    <text x="12" y="72">Resources</text>
+    <text x="12" y="92">Labs</text>
+    <text x="12" y="112">Tools</text>
+    <text x="12" y="132">Careers</text>
   </g>
-  <g transform="translate(40,50)" fill="#7357FF" opacity="0.8">
-    <rect x="20" y="-6" width="50" height="12" rx="3"/>
-    <rect x="120" y="24" width="70" height="12" rx="3"/>
-    <rect x="230" y="54" width="60" height="12" rx="3"/>
-    <rect x="90" y="84" width="80" height="12" rx="3"/>
+  <rect x="8" y="42" width="74" height="16" rx="4" fill="#00D9FF" opacity="0.15"/>
+  <!-- main panel -->
+  <g transform="translate(100,36)">
+    <rect width="290" height="70" rx="8" fill="#0B1220" stroke="#1A2233"/>
+    <text x="12" y="20" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#F8F5EF" font-weight="700">Learning Roadmaps</text>
+    <text x="12" y="36" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#8A93A6">10 career visions · 8 pillars</text>
+    <!-- progress bars -->
+    <rect x="12" y="46" width="200" height="4" rx="2" fill="#1A2233"/>
+    <rect x="12" y="46" width="140" height="4" rx="2" fill="url(#cyan)"/>
+    <rect x="12" y="56" width="200" height="4" rx="2" fill="#1A2233"/>
+    <rect x="12" y="56" width="90" height="4" rx="2" fill="#7357FF"/>
   </g>
-  <text x="20" y="195" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#F8F5EF" font-weight="700">OPENCYBERPATH</text>
-  <text x="20" y="212" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#8A93A6">Cybersecurity learning hub</text>
+  <g transform="translate(100,114)">
+    <rect width="138" height="90" rx="8" fill="#0B1220" stroke="#1A2233"/>
+    <text x="10" y="18" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#F8F5EF" font-weight="700">Labs &amp; Notes</text>
+    <text x="10" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#8A93A6">DFIR · SOC · Detection</text>
+    <rect x="10" y="46" width="118" height="6" rx="3" fill="#1A2233"/>
+    <rect x="10" y="46" width="80" height="6" rx="3" fill="#D99A38"/>
+    <rect x="10" y="58" width="118" height="6" rx="3" fill="#1A2233"/>
+    <rect x="10" y="58" width="60" height="6" rx="3" fill="#8B1E3F"/>
+  </g>
+  <g transform="translate(252,114)">
+    <rect width="138" height="90" rx="8" fill="#0B1220" stroke="#1A2233"/>
+    <text x="10" y="18" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#F8F5EF" font-weight="700">Resources</text>
+    <text x="10" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#8A93A6">Courses · Tools · Jobs</text>
+    <rect x="10" y="46" width="118" height="6" rx="3" fill="#1A2233"/>
+    <rect x="10" y="46" width="100" height="6" rx="3" fill="#00D9FF"/>
+    <rect x="10" y="58" width="118" height="6" rx="3" fill="#1A2233"/>
+    <rect x="10" y="58" width="70" height="6" rx="3" fill="#315BFF"/>
+  </g>
+  <text x="12" y="212" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#8A93A6">Conceptual illustration · OpenCyberPath</text>
 </svg>
