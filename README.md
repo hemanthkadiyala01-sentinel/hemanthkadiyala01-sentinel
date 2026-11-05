@@ -51,6 +51,14 @@ Grouped by purpose: security and SOC, automation, systems, development, investig
 
 ## Featured Projects
 
+### OpenCyberPath
+
+![OpenCyberPath](assets/project-open-cyber-path.svg)
+
+A free, community-curated cybersecurity learning hub with courses, labs, tools, career roadmaps, and job-preparation resources.
+
+Repository: https://github.com/hemanthkadiyala01-sentinel/open-cyber-path
+
 ### Cyber-Threat-Monitor
 
 ![Cyber-Threat-Monitor](assets/project-threat-monitor.svg)
