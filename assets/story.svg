@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Engineering process">
+  <rect width="1200" height="220" fill="#05070D"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="60" y="45" font-size="12" fill="#C0C6D0" letter-spacing="6">ENGINEERING PROCESS</text>
+    <g transform="translate(60,90)">
+      <circle cx="0" cy="0" r="6" fill="#00D9FF"/>
+      <text x="20" y="5" font-size="16" fill="#F8F5EF" font-weight="700">Investigate</text>
+      <text x="20" y="26" font-size="12" fill="#8A93A6">Understand the problem space</text>
+    </g>
+    <g transform="translate(260,90)">
+      <circle cx="0" cy="0" r="6" fill="#315BFF"/>
+      <text x="20" y="5" font-size="16" fill="#F8F5EF" font-weight="700">Implement</text>
+      <text x="20" y="26" font-size="12" fill="#8A93A6">Build practical tooling</text>
+    </g>
+    <g transform="translate(460,90)">
+      <circle cx="0" cy="0" r="6" fill="#7357FF"/>
+      <text x="20" y="5" font-size="16" fill="#F8F5EF" font-weight="700">Test</text>
+      <text x="20" y="26" font-size="12" fill="#8A93A6">Verify behavior and edge cases</text>
+    </g>
+    <g transform="translate(660,90)">
+      <circle cx="0" cy="0" r="6" fill="#D99A38"/>
+      <text x="20" y="5" font-size="16" fill="#F8F5EF" font-weight="700">Document</text>
+      <text x="20" y="26" font-size="12" fill="#8A93A6">Record findings and methods</text>
+    </g>
+    <g transform="translate(860,90)">
+      <circle cx="0" cy="0" r="6" fill="#8B1E3F"/>
+      <text x="20" y="5" font-size="16" fill="#F8F5EF" font-weight="700">Iterate</text>
+      <text x="20" y="26" font-size="12" fill="#8A93A6">Improve and repeat</text>
+    </g>
+    <!-- connecting line -->
+    <line x1="6" y1="90" x2="1080" y2="90" stroke="#2A3142" stroke-width="1"/>
+  </g>
+</svg>

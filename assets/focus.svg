@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Current focus">
+  <rect width="1200" height="180" fill="#05070D"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="60" y="45" font-size="12" fill="#C0C6D0" letter-spacing="6">CURRENT FOCUS</text>
+    <g transform="translate(60,85)">
+      <text font-size="18" fill="#F8F5EF" font-weight="700">Cybersecurity internships</text>
+      <text y="26" font-size="13" fill="#8A93A6">Monitoring, threat detection, DFIR, security automation</text>
+    </g>
+    <g transform="translate(460,85)">
+      <text font-size="18" fill="#F8F5EF" font-weight="700">Practical skill building</text>
+      <text y="26" font-size="13" fill="#8A93A6">Hands-on labs, documentation, responsible research</text>
+    </g>
+    <g transform="translate(860,85)">
+      <text font-size="18" fill="#F8F5EF" font-weight="700">Project milestones</text>
+      <text y="26" font-size="13" fill="#8A93A6">Verifiable, documented outcomes</text>
+    </g>
+  </g>
+</svg>

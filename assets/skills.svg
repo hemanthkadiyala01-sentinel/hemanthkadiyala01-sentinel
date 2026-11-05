@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Capabilities">
+  <rect width="1200" height="300" fill="#05080F"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="60" y="60" font-size="12" fill="#8A93A6" letter-spacing="6">CAPABILITIES</text>
+    <g transform="translate(60,110)">
+      <text font-size="22" fill="#F5F7FA" font-weight="700">Security Operations</text>
+      <text y="34" font-size="13" fill="#8A93A6">Monitoring, triage, investigation</text>
+    </g>
+    <g transform="translate(420,110)">
+      <text font-size="22" fill="#F5F7FA" font-weight="700">Threat Detection</text>
+      <text y="34" font-size="13" fill="#8A93A6">Event analysis &amp; correlation</text>
+    </g>
+    <g transform="translate(780,110)">
+      <text font-size="22" fill="#F5F7FA" font-weight="700">DFIR</text>
+      <text y="34" font-size="13" fill="#8A93A6">Incident response &amp; forensics</text>
+    </g>
+    <g transform="translate(60,210)">
+      <text font-size="22" fill="#F5F7FA" font-weight="700">CTI / OSINT</text>
+      <text y="34" font-size="13" fill="#8A93A6">Research &amp; analysis</text>
+    </g>
+    <g transform="translate(420,210)">
+      <text font-size="22" fill="#F5F7FA" font-weight="700">Security Automation</text>
+      <text y="34" font-size="13" fill="#8A93A6">Tooling &amp; workflows</text>
+    </g>
+    <g transform="translate(780,210)">
+      <text font-size="22" fill="#F5F7FA" font-weight="700">Linux / Networking / OS</text>
+      <text y="34" font-size="13" fill="#8A93A6">Systems fundamentals</text>
+    </g>
+  </g>
+  <!-- accent dots -->
+  <g fill="#00D4FF">
+    <circle cx="45" cy="100" r="3"/>
+    <circle cx="405" cy="100" r="3"/>
+    <circle cx="765" cy="100" r="3"/>
+    <circle cx="45" cy="200" r="3"/>
+    <circle cx="405" cy="200" r="3"/>
+    <circle cx="765" cy="200" r="3"/>
+  </g>
+</svg>

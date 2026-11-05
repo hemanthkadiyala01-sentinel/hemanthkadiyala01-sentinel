@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Technical stack">
+  <rect width="1200" height="260" fill="#05070D"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="60" y="50" font-size="12" fill="#C0C6D0" letter-spacing="6">TECHNICAL STACK</text>
+    <g transform="translate(60,95)">
+      <rect width="340" height="60" rx="10" fill="#081321" stroke="#315BFF" stroke-width="1"/>
+      <text x="20" y="26" font-size="15" fill="#F8F5EF" font-weight="700">Security &amp; SOC</text>
+      <text x="20" y="46" font-size="12" fill="#C0C6D0">Monitoring, detection, DFIR, CTI/OSINT</text>
+    </g>
+    <g transform="translate(430,95)">
+      <rect width="340" height="60" rx="10" fill="#081321" stroke="#7357FF" stroke-width="1"/>
+      <text x="20" y="26" font-size="15" fill="#F8F5EF" font-weight="700">Automation</text>
+      <text x="20" y="46" font-size="12" fill="#C0C6D0">Scripting, workflows, tooling</text>
+    </g>
+    <g transform="translate(800,95)">
+      <rect width="340" height="60" rx="10" fill="#081321" stroke="#D99A38" stroke-width="1"/>
+      <text x="20" y="26" font-size="15" fill="#F8F5EF" font-weight="700">Systems</text>
+      <text x="20" y="46" font-size="12" fill="#C0C6D0">Linux, networking, operating systems</text>
+    </g>
+    <g transform="translate(60,175)">
+      <rect width="340" height="60" rx="10" fill="#081321" stroke="#8B1E3F" stroke-width="1"/>
+      <text x="20" y="26" font-size="15" fill="#F8F5EF" font-weight="700">Development</text>
+      <text x="20" y="46" font-size="12" fill="#C0C6D0">Python, documentation, testing</text>
+    </g>
+    <g transform="translate(430,175)">
+      <rect width="340" height="60" rx="10" fill="#081321" stroke="#00D9FF" stroke-width="1"/>
+      <text x="20" y="26" font-size="15" fill="#F8F5EF" font-weight="700">Investigation</text>
+      <text x="20" y="46" font-size="12" fill="#C0C6D0">Forensics, incident response</text>
+    </g>
+    <g transform="translate(800,175)">
+      <rect width="340" height="60" rx="10" fill="#081321" stroke="#C0C6D0" stroke-width="1"/>
+      <text x="20" y="26" font-size="15" fill="#F8F5EF" font-weight="700">Research</text>
+      <text x="20" y="46" font-size="12" fill="#C0C6D0">OSINT, CTI, responsible disclosure</text>
+    </g>
+  </g>
+</svg>
